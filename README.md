@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My main profile is at **Gitlab**. 
+
+Check it out here **[https://gitlab.com/AzhanL](https://gitlab.com/AzhanL)**
+
+- 🌱 I’m currently learning SpringBoot with Kotlin
+- 📫 How to reach me: [azhanx@protonmail.com](mailto:azhanx@protonmail.com)
+
+
 <!--
 **AzhanL/AzhanL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
