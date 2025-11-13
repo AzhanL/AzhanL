@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-My main profile is at **Gitlab**. 
-
-Check it out here **[https://gitlab.com/AzhanL](https://gitlab.com/AzhanL)**
-
-- 🌱 I’m currently learning SpringBoot with a sprinkle of Kotlin
 - 📫 How to reach me: [info@azla.co](mailto:info@azla.co)
 
 
